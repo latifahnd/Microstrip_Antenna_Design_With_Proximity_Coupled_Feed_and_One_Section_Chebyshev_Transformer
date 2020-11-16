@@ -1,0 +1,6 @@
+15/Dec/2019 22:22:58  Defined reference frequency for open boundary condition (5.5 GHz) is larger
+                      than the lowest relevant system frequency (monitor at 1 GHz).
+                      Please check open boundary settings to ensure accurate monitor results for the
+                      lowest frequency of interest.
+                      
+                      ------------------------------------------------------------------------------

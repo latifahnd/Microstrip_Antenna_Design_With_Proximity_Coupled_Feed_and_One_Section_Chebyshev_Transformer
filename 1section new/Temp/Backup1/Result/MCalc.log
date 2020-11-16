@@ -1,0 +1,30 @@
+======================================================
+ - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+ - desired group         : 0, sockets = 0
+ - num cores available   : 8
+ - num accessible procs  : 8
+ - num logical procs     : 8
+ - affinity (main thread): 1111 1111 
+ - sockets               : 0
+ - potential cores       : 0,2,4,6
+ - affinity              : 1111
+ - active cores          : 0,2,4,6
+ - hyperthreading        : on
+ - allowed socket ids    : 0
+ - allowed core ids      : 0,2,4,6
+ - used mask (string)    : 1010 1010 
+======================================================
+
+========================================================================
+Processing CAD model (for field results)
+	[Improved internal geometry representation]
+	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
+Version 2019.1 (build 20181019)
+PBA version 2018101919
+2019 Dec 15 (Sun): 22:22:58
+========================================================================
+
+===========================================
+Finished CAD processing (for field results)
+===========================================
+

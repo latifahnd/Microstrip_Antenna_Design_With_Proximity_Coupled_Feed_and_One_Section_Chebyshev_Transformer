@@ -1,0 +1,496 @@
+15/Dec/2019 21:10:08  Optimizer Settings:
+                      
+                      Optimizer type: Nelder Mead Simplex Algorithm
+                      		Goal function level: 0
+                      		Minimal Simplex size: 1e-06
+                      
+                      		Strategy for starting values:	Noisy Latin Hypercube Sampling
+                      		External random seed: 1
+                      		Predefined anchor is included in set of starting values.
+                      
+                      ---------------------------------------------------------------------------------------
+                      
+                      Parameters used for optimization:
+                      ---------------------------------------------------------------------------------------
+                      | name                    |          min |          max |      initial |
+                      ---------------------------------------------------------------------------------------
+                      | d1                      |        2.842 |        2.958 |          2.9 |
+                      ---------------------------------------------------------------------------------------
+                      
+                      Goal functionals used for optimization:
+                      
+                      1DC: 1D Results\S-Parameters\S1,1: operate by "<" with target -14 in range: total, weighted: 1.0
+15/Dec/2019 21:10:08  
+                      ________________________________________________________________________
+15/Dec/2019 21:10:08  
+                      Extracted data from previously calculated system for parameters:
+
+15/Dec/2019 21:10:08  	d1 = 2.9 
+15/Dec/2019 21:10:08  
+                      (Corresponding to run ID: 153)
+15/Dec/2019 21:10:08  
+15/Dec/2019 21:10:08  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:10:08  	Best goal function value   = 11.2982 (Solver)
+15/Dec/2019 21:10:08  	Last goal function value   = 11.2982 (Solver)
+15/Dec/2019 21:10:54  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+15/Dec/2019 21:10:59  
+                      ________________________________________________________________________
+15/Dec/2019 21:10:59  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:10:59  	d1 = 2.90633 
+15/Dec/2019 21:10:59  
+                      (Corresponding to run ID: 154)
+15/Dec/2019 21:10:59  
+15/Dec/2019 21:10:59  
+                      Created complete backup of the project. (4.61 sec)
+
+15/Dec/2019 21:10:59  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:10:59  	Best goal function value   = 11.291 (Solver)
+15/Dec/2019 21:10:59  	Last goal function value   = 11.291 (Solver)
+15/Dec/2019 21:10:59  	Solver time = 00:00:46 h
+15/Dec/2019 21:11:46  
+                      ________________________________________________________________________
+15/Dec/2019 21:11:46  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:11:46  	d1 = 2.91267 
+15/Dec/2019 21:11:46  
+                      (Corresponding to run ID: 155)
+15/Dec/2019 21:11:46  
+15/Dec/2019 21:11:46  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:11:46  	Best goal function value   = 11.291 (Solver)
+15/Dec/2019 21:11:46  	Last goal function value   = 11.3252 (Solver)
+15/Dec/2019 21:11:46  	Solver time = 00:00:46 h
+15/Dec/2019 21:11:46  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:12:31  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+15/Dec/2019 21:12:33  
+                      ________________________________________________________________________
+15/Dec/2019 21:12:33  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:12:33  	d1 = 2.9095 
+15/Dec/2019 21:12:33  
+                      (Corresponding to run ID: 156)
+15/Dec/2019 21:12:33  
+15/Dec/2019 21:12:33  
+                      Created complete backup of the project. (1.625 sec)
+
+15/Dec/2019 21:12:33  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:12:33  	Best goal function value   = 11.2877 (Solver)
+15/Dec/2019 21:12:33  	Last goal function value   = 11.2877 (Solver)
+15/Dec/2019 21:12:33  	Solver time = 00:00:44 h
+15/Dec/2019 21:12:33  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:13:21  
+                      ________________________________________________________________________
+15/Dec/2019 21:13:21  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:13:21  	d1 = 2.91267 
+15/Dec/2019 21:13:21  
+                      (Corresponding to run ID: 155)
+15/Dec/2019 21:13:21  
+15/Dec/2019 21:13:21  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:13:21  	Best goal function value   = 11.2877 (Solver)
+15/Dec/2019 21:13:21  	Last goal function value   = 11.3252 (Solver)
+15/Dec/2019 21:13:21  	Solver time = 00:00:47 h
+15/Dec/2019 21:13:21  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:14:07  
+                      ________________________________________________________________________
+15/Dec/2019 21:14:07  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:14:07  	d1 = 2.91108 
+15/Dec/2019 21:14:07  
+                      (Corresponding to run ID: 157)
+15/Dec/2019 21:14:07  
+15/Dec/2019 21:14:07  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:14:07  	Best goal function value   = 11.2877 (Solver)
+15/Dec/2019 21:14:07  	Last goal function value   = 11.3253 (Solver)
+15/Dec/2019 21:14:07  	Solver time = 00:00:46 h
+15/Dec/2019 21:14:53  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+15/Dec/2019 21:14:55  
+                      ________________________________________________________________________
+15/Dec/2019 21:14:55  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:14:55  	d1 = 2.91029 
+15/Dec/2019 21:14:55  
+                      (Corresponding to run ID: 158)
+15/Dec/2019 21:14:55  
+15/Dec/2019 21:14:55  
+                      Created complete backup of the project. (1.89 sec)
+
+15/Dec/2019 21:14:55  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:14:55  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:14:55  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:14:55  	Solver time = 00:00:45 h
+15/Dec/2019 21:15:43  
+                      ________________________________________________________________________
+15/Dec/2019 21:15:43  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:15:43  	d1 = 2.91108 
+15/Dec/2019 21:15:43  
+                      (Corresponding to run ID: 157)
+15/Dec/2019 21:15:43  
+15/Dec/2019 21:15:43  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:15:43  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:15:43  	Last goal function value   = 11.3253 (Solver)
+15/Dec/2019 21:15:43  	Solver time = 00:00:47 h
+15/Dec/2019 21:15:43  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:16:30  
+                      ________________________________________________________________________
+15/Dec/2019 21:16:30  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:16:30  	d1 = 2.91069 
+15/Dec/2019 21:16:30  
+                      (Corresponding to run ID: 159)
+15/Dec/2019 21:16:30  
+15/Dec/2019 21:16:30  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:16:30  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:16:30  	Last goal function value   = 11.3253 (Solver)
+15/Dec/2019 21:16:30  	Solver time = 00:00:46 h
+15/Dec/2019 21:16:30  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:17:17  
+                      ________________________________________________________________________
+15/Dec/2019 21:17:17  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:17:17  	d1 = 2.91049 
+15/Dec/2019 21:17:17  
+                      (Corresponding to run ID: 160)
+15/Dec/2019 21:17:17  
+15/Dec/2019 21:17:17  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:17:17  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:17:17  	Last goal function value   = 11.3254 (Solver)
+15/Dec/2019 21:17:17  	Solver time = 00:00:46 h
+15/Dec/2019 21:17:17  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:18:05  
+                      ________________________________________________________________________
+15/Dec/2019 21:18:05  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:18:05  	d1 = 2.91009 
+15/Dec/2019 21:18:05  
+                      (Corresponding to run ID: 161)
+15/Dec/2019 21:18:05  
+15/Dec/2019 21:18:05  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:18:05  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:18:05  	Last goal function value   = 11.2872 (Solver)
+15/Dec/2019 21:18:05  	Solver time = 00:00:47 h
+15/Dec/2019 21:18:05  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:18:53  
+                      ________________________________________________________________________
+15/Dec/2019 21:18:53  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:18:53  	d1 = 2.91039 
+15/Dec/2019 21:18:53  
+                      (Corresponding to run ID: 162)
+15/Dec/2019 21:18:53  
+15/Dec/2019 21:18:53  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:18:53  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:18:53  	Last goal function value   = 11.3254 (Solver)
+15/Dec/2019 21:18:53  	Solver time = 00:00:47 h
+15/Dec/2019 21:18:53  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:19:39  
+                      ________________________________________________________________________
+15/Dec/2019 21:19:39  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:19:39  	d1 = 2.91034 
+15/Dec/2019 21:19:39  
+                      (Corresponding to run ID: 163)
+15/Dec/2019 21:19:39  
+15/Dec/2019 21:19:39  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:19:39  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:19:39  	Last goal function value   = 11.3254 (Solver)
+15/Dec/2019 21:19:39  	Solver time = 00:00:45 h
+15/Dec/2019 21:19:39  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:20:25  
+                      ________________________________________________________________________
+15/Dec/2019 21:20:25  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:20:25  	d1 = 2.91024 
+15/Dec/2019 21:20:25  
+                      (Corresponding to run ID: 164)
+15/Dec/2019 21:20:25  
+15/Dec/2019 21:20:25  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:20:25  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:20:25  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:20:25  	Solver time = 00:00:45 h
+15/Dec/2019 21:20:25  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:21:12  
+                      ________________________________________________________________________
+15/Dec/2019 21:21:12  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:21:12  	d1 = 2.91032 
+15/Dec/2019 21:21:12  
+                      (Corresponding to run ID: 165)
+15/Dec/2019 21:21:12  
+15/Dec/2019 21:21:12  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:21:12  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:21:12  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:21:12  	Solver time = 00:00:46 h
+15/Dec/2019 21:21:12  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:21:59  
+                      ________________________________________________________________________
+15/Dec/2019 21:21:59  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:21:59  	d1 = 2.91027 
+15/Dec/2019 21:21:59  
+                      (Corresponding to run ID: 166)
+15/Dec/2019 21:21:59  
+15/Dec/2019 21:21:59  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:21:59  	Best goal function value   = 11.287 (Solver)
+15/Dec/2019 21:21:59  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:21:59  	Solver time = 00:00:46 h
+15/Dec/2019 21:21:59  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:22:47  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+15/Dec/2019 21:22:49  
+                      ________________________________________________________________________
+15/Dec/2019 21:22:49  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:22:49  	d1 = 2.9103 
+15/Dec/2019 21:22:49  
+                      (Corresponding to run ID: 167)
+15/Dec/2019 21:22:49  
+15/Dec/2019 21:22:49  
+                      Created complete backup of the project. (1.578 sec)
+
+15/Dec/2019 21:22:49  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:22:49  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:22:49  	Last goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:22:49  	Solver time = 00:00:48 h
+15/Dec/2019 21:23:37  
+                      ________________________________________________________________________
+15/Dec/2019 21:23:37  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:23:37  	d1 = 2.91032 
+15/Dec/2019 21:23:37  
+                      (Corresponding to run ID: 165)
+15/Dec/2019 21:23:37  
+15/Dec/2019 21:23:37  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:23:37  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:23:37  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:23:37  	Solver time = 00:00:47 h
+15/Dec/2019 21:23:37  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:24:25  
+                      ________________________________________________________________________
+15/Dec/2019 21:24:25  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:24:25  	d1 = 2.91031 
+15/Dec/2019 21:24:25  
+                      (Corresponding to run ID: 168)
+15/Dec/2019 21:24:25  
+15/Dec/2019 21:24:25  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:24:25  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:24:25  	Last goal function value   = 11.3254 (Solver)
+15/Dec/2019 21:24:25  	Solver time = 00:00:47 h
+15/Dec/2019 21:24:25  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:25:13  
+                      ________________________________________________________________________
+15/Dec/2019 21:25:13  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:25:13  	d1 = 2.91031 
+15/Dec/2019 21:25:13  
+                      (Corresponding to run ID: 169)
+15/Dec/2019 21:25:13  
+15/Dec/2019 21:25:13  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:25:13  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:25:13  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:25:13  	Solver time = 00:00:47 h
+15/Dec/2019 21:25:13  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:26:03  
+                      ________________________________________________________________________
+15/Dec/2019 21:26:03  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:26:03  	d1 = 2.9103 
+15/Dec/2019 21:26:03  
+                      (Corresponding to run ID: 170)
+15/Dec/2019 21:26:03  
+15/Dec/2019 21:26:03  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:26:03  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:26:03  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:26:03  	Solver time = 00:00:49 h
+15/Dec/2019 21:26:03  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:26:50  
+                      ________________________________________________________________________
+15/Dec/2019 21:26:50  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:26:50  	d1 = 2.9103 
+15/Dec/2019 21:26:50  
+                      (Corresponding to run ID: 171)
+15/Dec/2019 21:26:50  
+15/Dec/2019 21:26:50  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:26:50  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:26:50  	Last goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:26:50  	Solver time = 00:00:46 h
+15/Dec/2019 21:26:50  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:27:37  
+                      ________________________________________________________________________
+15/Dec/2019 21:27:37  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:27:37  	d1 = 2.91031 
+15/Dec/2019 21:27:37  
+                      (Corresponding to run ID: 172)
+15/Dec/2019 21:27:37  
+15/Dec/2019 21:27:37  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:27:37  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:27:37  	Last goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:27:37  	Solver time = 00:00:46 h
+15/Dec/2019 21:27:37  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:28:28  
+                      ________________________________________________________________________
+15/Dec/2019 21:28:28  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:28:28  	d1 = 2.9103 
+15/Dec/2019 21:28:28  
+                      (Corresponding to run ID: 173)
+15/Dec/2019 21:28:28  
+15/Dec/2019 21:28:28  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:28:28  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:28:28  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:28:28  	Solver time = 00:00:48 h
+15/Dec/2019 21:28:28  	Parameter update time   = 00:00:03 h
+15/Dec/2019 21:29:18  
+                      ________________________________________________________________________
+15/Dec/2019 21:29:18  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:29:18  	d1 = 2.9103 
+15/Dec/2019 21:29:18  
+                      (Corresponding to run ID: 174)
+15/Dec/2019 21:29:18  
+15/Dec/2019 21:29:18  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:29:18  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:29:18  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:29:18  	Solver time = 00:00:49 h
+15/Dec/2019 21:29:18  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:30:05  
+                      ________________________________________________________________________
+15/Dec/2019 21:30:05  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:30:05  	d1 = 2.9103 
+15/Dec/2019 21:30:05  
+                      (Corresponding to run ID: 175)
+15/Dec/2019 21:30:05  
+15/Dec/2019 21:30:05  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:30:05  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:30:05  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:30:05  	Solver time = 00:00:46 h
+15/Dec/2019 21:30:05  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:30:51  
+                      ________________________________________________________________________
+15/Dec/2019 21:30:51  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:30:51  	d1 = 2.9103 
+15/Dec/2019 21:30:51  
+                      (Corresponding to run ID: 176)
+15/Dec/2019 21:30:51  
+15/Dec/2019 21:30:51  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:30:51  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:30:51  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:30:51  	Solver time = 00:00:45 h
+15/Dec/2019 21:30:51  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:31:39  
+                      ________________________________________________________________________
+15/Dec/2019 21:31:39  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:31:39  	d1 = 2.9103 
+15/Dec/2019 21:31:39  
+                      (Corresponding to run ID: 177)
+15/Dec/2019 21:31:39  
+15/Dec/2019 21:31:39  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:31:39  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:31:39  	Last goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:31:39  	Solver time = 00:00:46 h
+15/Dec/2019 21:31:39  	Parameter update time   = 00:00:02 h
+15/Dec/2019 21:32:27  
+                      ________________________________________________________________________
+15/Dec/2019 21:32:27  
+                      Solved problem for parameters:
+
+15/Dec/2019 21:32:27  	d1 = 2.9103 
+15/Dec/2019 21:32:27  
+                      (Corresponding to run ID: 178)
+15/Dec/2019 21:32:27  
+15/Dec/2019 21:32:27  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:32:27  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:32:27  	Last goal function value   = 11.287 (Solver)
+15/Dec/2019 21:32:27  	Solver time = 00:00:47 h
+15/Dec/2019 21:32:27  	Parameter update time   = 00:00:01 h
+15/Dec/2019 21:32:29  
+                      ========================================================================
+15/Dec/2019 21:32:29  
+                      Recovered data for best parameters:
+
+15/Dec/2019 21:32:29  	d1 = 2.9103 
+15/Dec/2019 21:32:29  
+                      (Corresponding to run ID: 167)
+15/Dec/2019 21:32:29  
+15/Dec/2019 21:32:29  
+                      Result data recovered from project backup.
+
+15/Dec/2019 21:32:29  
+                      
+                      Algorihtm converged.
+
+15/Dec/2019 21:32:29  	Initial goal function value  = 11.2982 (Solver)
+15/Dec/2019 21:32:29  	Best goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:32:29  	Last goal function value   = 11.2869 (Solver)
+15/Dec/2019 21:32:29  
+                      ________________________________________________________________________
+
+
+15/Dec/2019 21:32:29  	Total solver time           = 00:21:40 h (28 solver runs)
+15/Dec/2019 21:32:29  	Total data recovery time    = 00:00:02 h (2 loaded)
+15/Dec/2019 21:32:29  	Total backup project time   = 00:00:11 h (4 backups)
+15/Dec/2019 21:32:29  	Total parameter update time = 00:00:27 h
+15/Dec/2019 21:32:29  	Total optimizer time        = 00:22:21 h (30 evaluations)
+
+15/Dec/2019 21:32:29  
+                      ________________________________________________________________________
+                      
+                      Optimization successfully improved the goal value. Best parameter set is stored.
+
